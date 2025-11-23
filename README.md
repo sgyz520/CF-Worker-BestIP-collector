@@ -1,5 +1,20 @@
 # Cloudflare 优选IP 收集器
 由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~
+<div align="center">
+
+<p align="center">
+  <a href="https://www.youtube.com/@%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ethgan" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/yt_hytj" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
+  </a>
+</p>
 
 一个基于 Cloudflare Workers 的现代化 IP 地址收集与测速工具，自动从多个公开来源收集 Cloudflare IP 地址，并提供可视化界面和测速功能。
 
@@ -139,20 +154,5 @@ npx wrangler deploy
 
 本项目仅用于学习和研究目的，请勿用于商业用途或违反相关服务条款。使用者需自行承担相关风险。
 
-<div align="center">
-
-<p align="center">
-  <a href="https://www.youtube.com/@%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ethgan" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/yt_hytj" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
-  </a>
-</p>
 
 如果这个项目对你有帮助，请给个 ⭐️ 支持一下！
